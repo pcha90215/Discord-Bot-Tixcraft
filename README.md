@@ -9,5 +9,5 @@ Command:
 
 操作步驟:
 1.將Bot加入Discord伺服器(discord developers -> Installation -> Install Link)
-2.更新Token後，丟入VScode執行
-3.使用command操作
+2.更新Token後，丟入VScode執行(Discord developers -> Bot -> Reset Token)
+3.在Discord使用command操作

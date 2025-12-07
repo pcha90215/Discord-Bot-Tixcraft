@@ -8,6 +8,6 @@ Command:
 !url    設定要監控的拓元網址
 
 操作步驟:
-1.將Bot加入Discord伺服器(https://discord.com/oauth2/authorize?client_id=1447037402320207882)
+1.將Bot加入Discord伺服器(discord developers -> Installation -> Install Link)
 2.更新Token後，丟入VScode執行
 3.使用command操作
